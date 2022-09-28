@@ -30,6 +30,20 @@ let imageList = {
     create:
       "	https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd71991a6df42a49f7e6d5c_HP-3.png",
   },
+  usecaseImages: {
+    billing:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fbf86f7f19477d80b3be5ec_Billable%20settings-p-500.png",
+    timeReports:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fc0abed0af890cbb40c6d33_HP-3-1-p-500.png",
+    attendance:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fc4e6828a88f435b7c4ac2a_HIW-4-p-500.png",
+    expenseTracking:
+      "	https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fc91420b5951fed1bb2a187_Chickens(1).png",
+    projectProfitability:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fc91420b5951fed1bb2a187_Chickens(1).png",
+    timesheet:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd20dcf9d62a4f65fea8acd_Frame%2027(1)(1)-p-500.png",
+  },
 };
 
 export { imageList };
