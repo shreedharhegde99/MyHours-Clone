@@ -21,12 +21,12 @@ const { logo } = imageList;
 export function Navbar() {
   return (
     <Fragment>
-      <Box boxShadow="md" p="6">
+      <Box boxShadow="md" p="6" position="sticky" top="0" zIndex="1" bg="white">
         <Flex
           align="center"
           justify={{ base: "space-between", lg: "start", xl: "space-between" }}
-          maxW={{ lg: "1024px", xl: "7xl" }}
-          m={{ lg: "auto" }}
+          maxW={{ md: "3xl", lg: "1024px", xl: "7xl" }}
+          m={{ md: "auto", lg: "auto" }}
         >
           <Box px={{ base: "3", lg: "10" }}>
             <Image src={logo} maxW="9rem" />
