@@ -1,4 +1,4 @@
-import { Box, Center, Container, Heading, Stack, Text } from "@chakra-ui/react";
+import { Box, Stack, Text } from "@chakra-ui/react";
 import { Fragment } from "react";
 import { AiOutlineRight } from "react-icons/ai";
 

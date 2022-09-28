@@ -1,4 +1,4 @@
-import { Box, Center, Container, Heading, Stack, Text } from "@chakra-ui/react";
+import { Box, Center, Heading, Stack, Text } from "@chakra-ui/react";
 import { Fragment } from "react";
 import { ReviewList } from "../assets/Reviewlist";
 import { ReviewListCard } from "./ReviewListCard";
