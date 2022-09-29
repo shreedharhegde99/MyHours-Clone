@@ -73,6 +73,10 @@ let imageList = {
     noSpy:
       "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fc4fa86e0322e7deff06f6e_Group%203.png",
   },
+
+  support: {
+    recaptcha: "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+  },
 };
 
 export { imageList };
