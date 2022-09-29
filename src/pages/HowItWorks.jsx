@@ -1,7 +1,6 @@
 import {
   AspectRatio,
   Box,
-  Flex,
   Heading,
   Image,
   Stack,
@@ -90,7 +89,7 @@ export function HowItWorks() {
         </Box>
         <Stack
           direction={{ base: "column", md: "row" }}
-          maxW={{ md: "3xl", lg: "4xl", xl: "7xl" }}
+          maxW={{ md: "3xl", lg: "4xl", xl: "6xl" }}
           m="auto"
           px={{ lg: "4" }}
         >
