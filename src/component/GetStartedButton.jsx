@@ -8,6 +8,8 @@ export function GetStartedButton() {
         height="14"
         colorScheme="blue"
         px={{ sm: "8" }}
+        fontSize="xl"
+        fontWeight="medium"
       >
         Get Started - It's Free
       </Button>
