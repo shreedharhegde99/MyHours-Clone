@@ -103,7 +103,7 @@ export function Home() {
           gap={{ md: "2", lg: "6", xl: "10" }}
           py="4"
           px="4"
-          w={{ md: "3xl", lg: "4xl", xl: "7xl" }}
+          w={{ md: "3xl", lg: "4xl", xl: "6xl" }}
           m="auto"
           justify="center"
         >
@@ -129,7 +129,7 @@ export function Home() {
         <Box
           px={{ base: "2", md: "4", lg: "10" }}
           pt="24"
-          w={{ md: "3xl", lg: "4xl", xl: "7xl" }}
+          w={{ md: "3xl", lg: "4xl", xl: "6xl" }}
           m="auto"
         >
           <Stack
@@ -295,7 +295,7 @@ export function Home() {
           gap={{ base: "6", md: "4" }}
           py="20"
           h="max-content"
-          maxW={{ lg: "5xl", xl: "7xl" }}
+          maxW={{ lg: "5xl", xl: "6xl" }}
           m="auto"
         >
           <SignupCard />

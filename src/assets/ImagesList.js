@@ -44,6 +44,39 @@ let imageList = {
     timesheet:
       "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd20dcf9d62a4f65fea8acd_Frame%2027(1)(1)-p-500.png",
   },
+
+  howItWorks: {
+    organize:
+      "	https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd7198fa6df4249877e6d5b_HIW-1(1).png",
+    setRates:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/60c3106b6d15b4476d545c47_Project%20billing.png",
+    trackTime:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/61693180d0c70441fdcc29cd_Timesheet%20with%20timer-p-1080.png",
+    customReports:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd71990c1a06b2e03f1be70_HIW-4(1).png",
+    timeSpent:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/61692c9dbe4680c6916e960b_time-analytics.png",
+    approveLogs:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/61692ce83988430ca662abb6_Approve%20timesheets-p-1080.png",
+    emailReports:
+      "	https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fc4e6bd377fbe34a0cc7a0f_HIW-7.png",
+    createInvoice:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fc4e6d0c755c679d71eda9f_HIW-8.png",
+    accessRoles:
+      "	https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fc913df96a46f4b42ee4264_Roles-p-800.png",
+    calculateCosts:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fc91420b5951fed1bb2a187_Chickens(1).png",
+    integrations:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fc9145d6e47e935f0570ff3_Integrations-p-500.png",
+    mobileApp:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd73713f912e4498947d1a3_HIW-mobile%20(1)(1)-p-1080.png",
+    noSpy:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fc4fa86e0322e7deff06f6e_Group%203.png",
+  },
+
+  support: {
+    recaptcha: "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+  },
 };
 
 export { imageList };

@@ -11,7 +11,7 @@ export function Footer() {
       <Box bg="#375d75" pt="14">
         <Stack
           direction={{ base: "column", md: "row" }}
-          maxW={{ md: "3xl", lg: "4xl", xl: "7xl" }}
+          maxW={{ md: "3xl", lg: "4xl", xl: "6xl" }}
           m={{ md: "auto" }}
           gap={{ md: "1" }}
         >

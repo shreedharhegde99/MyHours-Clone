@@ -12,7 +12,7 @@ export function SignupCard() {
           </Heading>
         </Box>
         <GetStartedButton />
-        <Box textAlign="center" color="gray.600" fontWeight="thin">
+        <Box textAlign="center" color="#375d75" fontWeight="light">
           <Text>
             My Hours is Free to use for teams of any size.Pro paid plan comes
             with additional features like invoicing, admin controls and priority

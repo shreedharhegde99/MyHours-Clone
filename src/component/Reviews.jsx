@@ -7,7 +7,7 @@ import { AiOutlineArrowRight } from "react-icons/ai";
 export function Reviews() {
   return (
     <Fragment>
-      <Box p="10" maxW={{ md: "3xl", lg: "4xl", xl: "7xl" }} m="auto">
+      <Box p="10" maxW={{ md: "3xl", lg: "4xl", xl: "6xl" }} m="auto">
         <Box color="#375d75" py="2">
           <Heading fontSize="4xl" textAlign="center">
             My Hours has changed the way our customers work

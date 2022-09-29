@@ -5,7 +5,7 @@ import { HiCheck } from "react-icons/hi";
 export function Questions() {
   return (
     <Fragment>
-      <Box px="4" py="4" w={{ md: "xl", lg: "2xl" }} m="auto">
+      <Box px="4" py="20" w={{ md: "xl", lg: "2xl" }} m="auto">
         <Center>
           <Heading fontSize="3xl" color="blue.700" textAlign="center">
             Have questions ? We're Here

@@ -25,10 +25,10 @@ export function Navbar() {
         <Flex
           align="center"
           justify="space-between"
-          maxW={{ md: "3xl", lg: "1024px", xl: "7xl" }}
+          maxW={{ md: "3xl", lg: "1024px", xl: "6xl" }}
           m={{ md: "auto", lg: "auto" }}
         >
-          <Box px={{ base: "3", lg: "10" }}>
+          <Box px={{ base: "3", lg: "2" }}>
             <Link to="/">
               <Image src={logo} maxW="9rem" />
             </Link>
@@ -86,7 +86,7 @@ export function Navbar() {
             <Flex
               gap={{ lg: "8", xl: "14" }}
               justify="space-between"
-              fontWeight="medium"
+              fontWeight="400"
               fontSize="lg"
               color="#3b8fc2"
             >

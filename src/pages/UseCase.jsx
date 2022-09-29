@@ -52,7 +52,7 @@ export function UseCase() {
           gap={{ base: "6", md: "8" }}
           py="20"
           px={{ base: "4", md: "10", lg: "6" }}
-          maxW={{ md: "3xl", lg: "5xl", xl: "7xl" }}
+          maxW={{ md: "3xl", lg: "5xl", xl: "6xl" }}
           m="auto"
         >
           {cardDetails.map((column, i) => (
