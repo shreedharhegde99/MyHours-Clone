@@ -6,3 +6,4 @@ export { DemoCard } from "./DemoCard";
 export { Footer } from "./Footer";
 export { Reviews } from "./Reviews";
 export { SingleReviewCard } from "./SingleReviewCard";
+export { TableData } from "./TableData";
