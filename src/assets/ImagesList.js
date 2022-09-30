@@ -77,6 +77,32 @@ let imageList = {
   support: {
     recaptcha: "https://www.gstatic.com/recaptcha/api2/logo_48.png",
   },
+  mobileApp: {
+    playStore:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5d0a257569e40aa076f70d9f_google-play-badge-p-500.png",
+    appleStore:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5d1377b94b05c83249fe1f52_Annotation%202019-06-26%20153451.png",
+    mobileTime:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fdccd7a2700c492706e7816_Mobile%20tracking.png",
+    organize:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fdccd7bd8b90271165a3a4b_Organize%20projects%20mobile.png",
+    mobileTimeReport:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fdccd7b07ff492a48451989_Mobile%20reporting.png",
+    setRates:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fdccd7c9545cf5a4bc219ac_Set%20billable%20rates%20mobile.png",
+    reminders:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fdccd7afb604e59f050714b_Reminders%20mobile.png",
+    trackTime:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5c7d3bac5c2293f8364d9f24_iconfinder_simpline_56_2305606.png",
+    saveMoney:
+      "	https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5d08e521370a898356ef2511_4229875-128.png",
+    findAndFix:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5c7d3bda314d161243dc02f8_2305598-128.png",
+    beMobile:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5d08e3ff370a89a444ef221e_3428084-128.png",
+    tickMark:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5c79356e59510561d68ee37f_chech%20icon.png",
+  },
 };
 
 export { imageList };

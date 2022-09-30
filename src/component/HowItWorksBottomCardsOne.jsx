@@ -6,7 +6,7 @@ export function HowItWorksBottomCardsOne({ image, heading, details }) {
     <Fragment>
       <Box px="4" py="14">
         <Stack
-          maxW={{ md: "3xl", lg: "4xl", xl: "7xl" }}
+          maxW={{ md: "3xl", lg: "4xl", xl: "6xl" }}
           direction={{ base: "column", sm: "row" }}
           m="auto"
           align="center"

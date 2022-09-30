@@ -6,7 +6,12 @@ export function DemoCard() {
     <Fragment>
       <Box bg="#faf9f7" px={{ base: "4" }} py="6" p={{ sm: "8" }}>
         <Box py="2">
-          <Text color="#3b718d" fontSize="4xl" fontWeight="light">
+          <Text
+            color="#3b718d"
+            fontSize="4xl"
+            fontWeight="light"
+            lineHeight="1.1"
+          >
             Need more info ? Get a product demo.
           </Text>
         </Box>
@@ -14,8 +19,10 @@ export function DemoCard() {
           <Button
             variant="outline"
             colorScheme="teal"
-            fontWeight="light"
-            h="16"
+            fontWeight="medium"
+            minW="3xs"
+            h="14"
+            _hover={{ color: "white", backgroundColor: "#3182ce" }}
           >
             Talk to our Team
           </Button>

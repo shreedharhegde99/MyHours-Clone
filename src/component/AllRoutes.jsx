@@ -1,8 +1,16 @@
 import { Fragment } from "react";
 import { Route, Routes } from "react-router-dom";
-import { Home, HowItWorks, UseCase } from "../pages";
-import { Pricing } from "../pages/Pricing";
-import { Support } from "../pages/Support";
+import {
+  Home,
+  HowItWorks,
+  MobileApp,
+  Signin,
+  UseCase,
+  Pricing,
+  Support,
+  Signup,
+  Aboutus,
+} from "../pages";
 
 export function AllRoutes() {
   return (
@@ -13,8 +21,10 @@ export function AllRoutes() {
         <Route path="/use-cases" element={<UseCase />} />
         <Route path="/pricing" element={<Pricing />} />
         <Route path="/support" element={<Support />} />
-        <Route path="/signin" />
-        <Route path="/signup" />
+        <Route path="/signin" element={<Signin />} />
+        <Route path="/signup" element={<Signup />} />
+        <Route path="/mobileapp" element={<MobileApp />} />
+        <Route path="/about" element={<Aboutus />} />
       </Routes>
     </Fragment>
   );

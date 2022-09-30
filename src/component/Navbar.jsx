@@ -21,16 +21,24 @@ const { logo } = imageList;
 export function Navbar() {
   return (
     <Fragment>
-      <Box boxShadow="md" p="6" position="sticky" top="0" zIndex="1" bg="white">
+      <Box
+        boxShadow="md"
+        sx={{ boxShadow: " #ebf6ff 0px 3px  5px" }}
+        p="4"
+        position="sticky"
+        top="0"
+        zIndex="1"
+        bg="white"
+      >
         <Flex
           align="center"
           justify="space-between"
           maxW={{ md: "3xl", lg: "1024px", xl: "6xl" }}
           m={{ md: "auto", lg: "auto" }}
         >
-          <Box px={{ base: "3", lg: "2" }}>
+          <Box>
             <Link to="/">
-              <Image src={logo} maxW="9rem" />
+              <Image src={logo} maxW="10rem" />
             </Link>
           </Box>
           <Show below="991px">
@@ -84,7 +92,7 @@ export function Navbar() {
 
           <Show above="lg">
             <Flex
-              gap={{ lg: "8", xl: "14" }}
+              gap={{ lg: "8", xl: "10" }}
               justify="space-between"
               fontWeight="400"
               fontSize="lg"
@@ -117,7 +125,14 @@ export function Navbar() {
               </Center>
               <Center color="#3b8fc2">
                 <Link to="/signup">
-                  <Button colorScheme="blue"> Get My Hours Free</Button>
+                  <Button
+                    w="3xs"
+                    colorScheme="blue"
+                    fontSize="lg"
+                    fontWeight="normal"
+                  >
+                    Get My Hours Free
+                  </Button>
                 </Link>
               </Center>
             </Flex>
