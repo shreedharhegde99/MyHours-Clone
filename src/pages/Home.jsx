@@ -232,7 +232,11 @@ export function Home() {
               A flexible tool for all types of organizations
             </Heading>
           </Box>
-          <Stack align="center" direction={{ base: "column", sm: "row" }}>
+          <Stack
+            align="center"
+            direction={{ base: "column", sm: "row" }}
+            gap={{ md: "10" }}
+          >
             <Box maxW="xs" margin="auto" py="8">
               <Heading fontSize="2xl">Billing</Heading>
               <Text fontSize="lg" fontWeight="medium" py="3">
@@ -255,7 +259,11 @@ export function Home() {
               <HereIsHowLink />
             </Box>
           </Stack>
-          <Stack direction={{ base: "column", md: "row" }} align="center">
+          <Stack
+            direction={{ base: "column", md: "row" }}
+            align="center"
+            gap={{ md: "10" }}
+          >
             <Box maxW="xs" margin="auto" py="8">
               <Heading fontSize="2xl">Attendance</Heading>
               <Text fontSize="lg" fontWeight="medium" py="3">
