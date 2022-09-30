@@ -5,7 +5,7 @@ const LinkLists = [
       { title: "How it works", link: "how-it-works" },
       { title: "Features   ", link: "features" },
       { title: "Mobile App", link: "mobileapp" },
-      { title: "Use case collection", link: "" },
+      { title: "Use case collection", link: "use-cases" },
       { title: "Pricing   ", link: "pricing" },
       { title: "Customer Reviews", link: "" },
       { title: "Start Free", link: "signup" },
