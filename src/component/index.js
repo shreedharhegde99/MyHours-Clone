@@ -7,3 +7,5 @@ export { Footer } from "./Footer";
 export { Reviews } from "./Reviews";
 export { SingleReviewCard } from "./SingleReviewCard";
 export { TableData } from "./TableData";
+export { MobileAppTopCards } from "./MobileAppTopCards";
+export { MobileAppBottomCards } from "./MobileAppBottomCards";
