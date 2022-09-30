@@ -10,6 +10,7 @@ import {
 import { imageList } from "../assets/ImagesList";
 import { AiOutlineArrowRight } from "react-icons/ai";
 import { Reviews } from "../component/Reviews";
+import { Link } from "react-router-dom";
 
 const {
   microsoftLogo,
@@ -212,7 +213,7 @@ export function Home() {
             py="10"
           >
             <Box textDecoration="underline" textAlign="center" py="4">
-              See how My Hours works in detail
+              <Link to="/how-it-works">See how My Hours works in detail</Link>
             </Box>
             <Box>
               <AiOutlineArrowRight size="1.5rem" />
@@ -288,7 +289,7 @@ export function Home() {
               w="xs"
             >
               <Box textDecoration="underline" textAlign="center" py="4">
-                Find more use cases
+                <Link to="/use-cases">Find more use cases</Link>
               </Box>
               <Box>
                 <AiOutlineArrowRight size="1.5rem" />
