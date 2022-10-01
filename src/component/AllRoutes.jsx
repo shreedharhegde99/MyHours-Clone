@@ -10,6 +10,7 @@ import {
   Support,
   Signup,
   Aboutus,
+  Features,
 } from "../pages";
 
 export function AllRoutes() {
@@ -25,6 +26,7 @@ export function AllRoutes() {
         <Route path="/signup" element={<Signup />} />
         <Route path="/mobileapp" element={<MobileApp />} />
         <Route path="/about" element={<Aboutus />} />
+        <Route path="/features" element={<Features />} />
       </Routes>
     </Fragment>
   );
