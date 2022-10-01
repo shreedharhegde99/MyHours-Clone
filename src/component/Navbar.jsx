@@ -38,7 +38,7 @@ export function Navbar() {
         >
           <Box>
             <Link to="/">
-              <Image src={logo} maxW="10rem" />
+              <Image src={logo} maxW="10rem" alt="MyHours_Logo" />
             </Link>
           </Box>
           <Show below="991px">
