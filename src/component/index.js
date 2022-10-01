@@ -1,3 +1,4 @@
+export { AllRoutes } from "./AllRoutes";
 export { Navbar } from "./Navbar";
 export { GetStartedButton } from "./GetStartedButton";
 export { Questions } from "./Questions";
@@ -9,4 +10,4 @@ export { SingleReviewCard } from "./SingleReviewCard";
 export { TableData } from "./TableData";
 export { MobileAppTopCards } from "./MobileAppTopCards";
 export { MobileAppBottomCards } from "./MobileAppBottomCards";
-export { AllRoutes } from "./AllRoutes";
+export { FeatureCards } from "./FeatureCards";
