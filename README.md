@@ -19,4 +19,4 @@ Demo link: <br>
 
 Deployed on Netlify Click [ here](https://myhours-clone-shreedharhegde.netlify.app/)
 
-Deploye don Vercel Click [here](https://myhours-shreedharhegde99.vercel.app/)
+Deployed on Vercel Click [here](https://myhours-shreedharhegde99.vercel.app/)
