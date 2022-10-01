@@ -103,6 +103,71 @@ let imageList = {
     tickMark:
       "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5c79356e59510561d68ee37f_chech%20icon.png",
   },
+
+  feature: {
+    setBillable:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd71c49d29d910c2d0d4ad8_F-1-1.png",
+    addTasks:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd71c7d8001c2734403c316_F-1-2.png",
+    templates:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd71cd4eb2fea310e876bfc_F-1-3.png",
+    projectBudget:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd7459ce77af9b332d73027_F-2-1.png",
+    advancedBudget:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd745ae6b8cccd5908bf863_F-2-2.png",
+    estimateBudget:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd745be2aa1aba083c7ea5a_F-2-3.png",
+    timeTracking:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd745fbe1ad8f7db8da0161_F-3-1.png",
+    detailedWorklog:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd746154a63099145950c5e_F-3-2.png",
+    expenseWithReceipts:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd74626c1a06b1d30f269ba_F-3-3.png",
+    flexibleBill:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd746477684dab15ac0fde2_F-4-1.png",
+    roundTime:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd74655304e92c42f799dce_F-4-2.png",
+    markLogs:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd746664f710913d1ead0dc_F-4-3.png",
+    hourlyRate:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd746f3d7b9bf7bc81a242c_F-5-1.png",
+    expenses:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd747046dd03f5ee0d27249_F-5-2.png",
+    calculateBalance:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd74715bb814e150a445f77_F-5-3.png",
+    inviteTeam:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd7472d304e92723279a27a_F-6-1.png",
+    flexibleRoles:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd7473aa6df4257377f0660_F-6-2.png",
+    teamActivity:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd7474556f6667aaed5fa90_F-6-3.png",
+    editLogs:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd747607e0be13f2ddd121a_F-7-1.png",
+    approval:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd7477291653633e682f1ff_F-7-2.png",
+    trackingReminder:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd7477f4a63095bb7951281_F-7-3.png",
+    customReports:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd747e8cfa976ab8af4ca5f_F-8-1.png",
+    downloadReport:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd747fbbb814eed244464aa_F-8-2.png",
+    analyze:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd748085a75507de8de8b35_F-8-3.png",
+    sendInvoice:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd748720b94d03dae913513_F-9-1.png",
+    personalize:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd74889e1ad8f1ff6da095e_F-9-2.png",
+    sendEmail:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd7489cc620981e07b1c5ee_F-9-3.png",
+    quickbook:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5e3172e3cf36f670f74e0f40_kisspng-using-quickbooks-accounting-software-invoice-5ba10498c16f17.2263586115372791287923.png",
+    zapier:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5e78886de5ba0e1fc49de4a1_zapier-logo.png",
+    appleStore:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5d1377b94b05c83249fe1f52_Annotation%202019-06-26%20153451.png",
+    playStore:
+      "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5d0a257569e40aa076f70d9f_google-play-badge-p-500.png",
+  },
 };
 
 export { imageList };
