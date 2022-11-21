@@ -1,22 +1,69 @@
-# myhours website clone
+# Myhours website clone
 
-## This website clone is created using create-react-app and Chakra-UI
+:point_right: Visit the deployed website [here](https://myhours.pages.dev/)
 
-## Pages created
+# Tech Stacks
 
-1. Home page
-2. How it works page
-3. Use cases page
-4. Pricing page
-5. Support page
-6. Sign in page
-7. Sign up page
-8. Features page
-9. Mobile app page
-10. About page
+- React
+- Chakra UI
 
-Demo link: <br>
+<br>
 
-Deployed on Netlify Click [ here](https://myhours-clone-shreedharhegde.netlify.app/)
+## 1. Home page
 
-Deployed on Vercel Click [here](https://myhours-shreedharhegde99.vercel.app/)
+   <img alt="Dashboard" src="src/assets/Dashboard.png" >
+
+<br>
+
+## 2. How it works page
+
+   <img alt="How it works" src="src/assets/How_it_works.png" >
+
+<br>
+
+## 3. Use cases page
+
+   <img alt="Use cases" src="src/assets/Use_cases.png" >
+
+   <br>
+
+## 4. Pricing page
+
+   <img alt="Pricing" src="src/assets/Pricing.png" >
+
+   <br>
+
+## 5. Support page
+
+   <img alt="Support" src="src/assets/Support.png" >
+
+   <br>
+
+## 6. Sign in page
+
+   <img alt="Sign in" src="src/assets/Signin.png" >
+
+   <br>
+
+## 7. Sign up page
+
+   <img alt="Sign up" src="src/assets/Signup.png" >
+
+   <br>
+
+## 8. Features page
+
+   <img alt="Features" src="src/assets/Features.png" >
+
+   <br>
+
+## 9. Mobile app page
+
+   <img alt="Mobile app" src="src/assets/Mobile_app.png" >
+
+   <br>
+
+## 10. About page
+
+ <img alt="About" src="src/assets/About.png" >
+ <br>
